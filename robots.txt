@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahvaefuex.lhzhang.com/sitemap.xml
